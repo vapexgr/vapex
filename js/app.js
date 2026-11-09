@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function updatePrices() {
     const isUSD = currentCurrency === "USD";
-    const mainPriceText = isUSD ? "$700" : "600€";
+    const mainPriceText = isUSD ? "$350" : "315€";
 
     // Primary dynamic price tags
     priceDisplays.forEach(el => {
