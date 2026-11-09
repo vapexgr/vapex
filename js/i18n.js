@@ -7,12 +7,12 @@ const translations = {
     // Nav & Price
     brand_name: "VAPEX",
     german_engineering_badge: "GERMAN ENGINEERING",
-    price_main: "$700",
-    price_alt_eur: "or €600",
-    price_alt_usd: "or $700",
+    price_main: "$350",
+    price_alt_eur: "or €315",
+    price_alt_usd: "or $350",
     currency_code: "USD",
-    price_formatted: "$700",
-    price_full: "$700 USD / €600 EUR",
+    price_formatted: "$350",
+    price_full: "$350 USD / €315 EUR",
 
     // Section Category Badges
     badge_system: "VAPEX SYSTEM",
@@ -190,12 +190,12 @@ const translations = {
     // Nav & Price
     brand_name: "VAPEX",
     german_engineering_badge: "НЕМЕЦКИЙ ПОДХОД",
-    price_main: "$700",
-    price_alt_eur: "или €600",
-    price_alt_usd: "или $700",
+    price_main: "$350",
+    price_alt_eur: "or €315",
+    price_alt_usd: "or $350",
     currency_code: "USD",
-    price_formatted: "700$",
-    price_full: "700$ USD / 600€ EUR",
+    price_formatted: "$350",
+    price_full: "$350 USD / €315 EUR",
 
     // Section Category Badges
     badge_system: "СИСТЕМА VAPEX",
@@ -373,12 +373,12 @@ const translations = {
     // Nav & Price
     brand_name: "VAPEX",
     german_engineering_badge: "DEUTSCHER ANSPRUCH",
-    price_main: "€600",
-    price_alt_eur: "oder €600",
-    price_alt_usd: "oder $700",
-    currency_code: "EUR",
-    price_formatted: "600 €",
-    price_full: "600 € EUR / 700 $ USD",
+    price_main: "$350",
+    price_alt_eur: "or €315",
+    price_alt_usd: "or $350",
+    currency_code: "USD",
+    price_formatted: "$350",
+    price_full: "$350 USD / €315 EUR",
 
     // Section Category Badges
     badge_system: "VAPEX SYSTEM",
