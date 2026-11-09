@@ -83,10 +83,10 @@ document.addEventListener("DOMContentLoaded", () => {
     priceAltDisplays.forEach(el => {
       if (isUSD) {
         // Primary is USD ($700), alt is EUR (€600)
-        el.textContent = translations[currentLang]["price_alt_eur"] || "or €600";
+        el.textContent = translations[currentLang]["price_alt_eur"] || "or €315";
       } else {
         // Primary is EUR (€600), alt is USD ($700)
-        el.textContent = translations[currentLang]["price_alt_usd"] || "or $700";
+        el.textContent = translations[currentLang]["price_alt_usd"] || "or $350";
       }
     });
   }
